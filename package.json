@@ -18,7 +18,7 @@
     "level-writestream": "^0.1.3",
     "lodash": "^4.15.0",
     "readable-stream": "^2.1.5",
-    "request": "^2.74.0",
+    "request": "^2.78.0",
     "slug": "^0.9.1",
     "through2": "^2.0.1",
     "unique-stream": "^2.2.1",
