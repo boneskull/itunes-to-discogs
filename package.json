@@ -20,7 +20,7 @@
     "readable-stream": "^2.1.5",
     "request": "^2.74.0",
     "slug": "^0.9.1",
-    "through2": "^2.0.1",
+    "through2": "^2.0.2",
     "unique-stream": "^2.2.1",
     "xml-stream": "^0.4.5"
   }
