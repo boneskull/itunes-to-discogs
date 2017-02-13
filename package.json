@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "better-emit-stream": "0.0.1",
-    "configstore": "^2.1.0",
+    "configstore": "^3.0.0",
     "itunes-data": "^0.1.3",
     "lazy-ass": "^1.5.0",
     "level": "^1.4.0",
